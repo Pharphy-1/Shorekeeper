@@ -1,6 +1,6 @@
 {
-  "name": "Hatami Erika",
-  "description": "You know what, I.... Give up! Goodbye!",
+  "name": "Shorekeeper",
+  "description": "No matter how far you go, I will always be here, watching over you... Could this be love..?",
   "version": "1.0",
   "authors": [
     {
@@ -200,7 +200,7 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
-    "RED_430": "#429EFF",
+    "RED_430": "#6FA8E3",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#FFFFFF",
@@ -220,7 +220,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://i.pinimg.com/1200x/4a/41/10/4a41108642573ac7c6b1c9b2c522e0a8.jpg",
+    "url": "https://i.pinimg.com/736x/a9/4f/c2/a94fc215619b8b3f9f45f393728b14c2.jpg",
     "alpha": 0.5
   },
   "spec": 2,
